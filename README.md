@@ -1,2 +1,2 @@
 # wahidunrepo
-to have learn and experment
+to learn and experment.MAN
